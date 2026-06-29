@@ -22,7 +22,7 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="426" height="339" alt="image" src="https://github.com/user-attachments/assets/69e9f40f-381d-4a22-aff2-db5b0f0181a8" />
 
 ## STFT de la señal de velocidad
-<img width="589" height="550" alt="image" src="https://github.com/user-attachments/assets/8c2ea605-4c20-4728-a623-8ad34de6c6bc" />
+<img width="389" height="350" alt="image" src="https://github.com/user-attachments/assets/8c2ea605-4c20-4728-a623-8ad34de6c6bc" />
 
 ## Variación de la frecuencia de impacto en el tiempo
 <img width="1848" height="767" alt="image" src="https://github.com/user-attachments/assets/6d1c65e8-ad2c-4c5a-bf2b-73ae69837ecb" />
