@@ -29,6 +29,9 @@ El método BEMF-MRAS es el más efectivo para estimar la velocidad en motores ja
 <img width="426" height="339" alt="image" src="https://github.com/user-attachments/assets/69e9f40f-381d-4a22-aff2-db5b0f0181a8" />
 
 ## STFT de la señal de velocidad
+
+A continuacion se presenta la estimación de la frecuencia de impacto de la perforadora DTH a partir del análisis de la señal de velocidad del motor. Para ello se utilizó la Transformada de Fourier de Tiempo Corto (STFT).
+
 <img width="389" height="350" alt="image" src="https://github.com/user-attachments/assets/8c2ea605-4c20-4728-a623-8ad34de6c6bc" />
 
 ## Variación de la frecuencia de impacto en el tiempo
