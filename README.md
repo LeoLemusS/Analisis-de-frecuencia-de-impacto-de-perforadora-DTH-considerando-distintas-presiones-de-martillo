@@ -11,6 +11,10 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="1145" height="517" alt="image" src="https://github.com/user-attachments/assets/4f998f21-9997-4f50-8634-fce05433a182" />
 
 ## Modelos de estimación
+
+Para estimar el torque y velocidad, primero se debe estimar los enlaces de flujo, en este caso se utiliza el modelo hibrido. Este modelo se obtiene a partir de la combinación de los flujos de rotor en ejes estacionarios del modelo de voltaje y corriente. 
+El método BEMF-MRAS es el más efectivo para estimar la velocidad en motores jaula de ardilla, como los de perforadoras DTH. Utiliza ecuaciones del estator y rotor como modelos de referencia, basándose en la fuerza contraelectromotriz
+
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/2d1281f6-43c9-45ab-adc4-73720a99d099" />
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a6f31228-b566-4c9e-842b-3bcbccb96e30" />
 
