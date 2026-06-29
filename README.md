@@ -13,7 +13,19 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="485" height="375" alt="image" src="https://github.com/user-attachments/assets/2d1281f6-43c9-45ab-adc4-73720a99d099" />
 <img width="485" height="375" alt="image" src="https://github.com/user-attachments/assets/a6f31228-b566-4c9e-842b-3bcbccb96e30" />
 
-<img width="1322" height="744" alt="image" src="https://github.com/user-attachments/assets/8e32c915-03fe-48e3-ab63-6ec4f926042c" />
+<img width="1322" height="744" alt="image" src="https://github.com/user-attachments/assets/d9250279-b0c4-4121-94d6-07463697132b" />
+
+<img width="827" height="545" alt="image" src="https://github.com/user-attachments/assets/047dc0a6-c31e-41ed-a7cf-9386cc45b250" />
+<img width="826" height="839" alt="image" src="https://github.com/user-attachments/assets/69e9f40f-381d-4a22-aff2-db5b0f0181a8" />
+
+<img width="589" height="550" alt="image" src="https://github.com/user-attachments/assets/8c2ea605-4c20-4728-a623-8ad34de6c6bc" />
+
+<img width="1848" height="767" alt="image" src="https://github.com/user-attachments/assets/6d1c65e8-ad2c-4c5a-bf2b-73ae69837ecb" />
+
+
+
+
+
 
 
 
