@@ -19,7 +19,7 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 
 ## Variables operacionales
 <img width="427" height="345" alt="image" src="https://github.com/user-attachments/assets/047dc0a6-c31e-41ed-a7cf-9386cc45b250" />
-<img width="526" height="439" alt="image" src="https://github.com/user-attachments/assets/69e9f40f-381d-4a22-aff2-db5b0f0181a8" />
+<img width="426" height="339" alt="image" src="https://github.com/user-attachments/assets/69e9f40f-381d-4a22-aff2-db5b0f0181a8" />
 
 ## STFT de la señal de velocidad
 <img width="589" height="550" alt="image" src="https://github.com/user-attachments/assets/8c2ea605-4c20-4728-a623-8ad34de6c6bc" />
