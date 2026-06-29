@@ -10,5 +10,5 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 ## Sistema Measurement While Drilling
 <img width="1545" height="717" alt="image" src="https://github.com/user-attachments/assets/4f998f21-9997-4f50-8634-fce05433a182" />
 
-<img width="737" height="513" alt="image" src="https://github.com/user-attachments/assets/2d1281f6-43c9-45ab-adc4-73720a99d099" />
+<img width="437" height="213" alt="image" src="https://github.com/user-attachments/assets/2d1281f6-43c9-45ab-adc4-73720a99d099" />
 
