@@ -13,4 +13,7 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="485" height="375" alt="image" src="https://github.com/user-attachments/assets/2d1281f6-43c9-45ab-adc4-73720a99d099" />
 <img width="485" height="375" alt="image" src="https://github.com/user-attachments/assets/a6f31228-b566-4c9e-842b-3bcbccb96e30" />
 
+<img width="1322" height="744" alt="image" src="https://github.com/user-attachments/assets/8e32c915-03fe-48e3-ab63-6ec4f926042c" />
+
+
 
