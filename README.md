@@ -15,7 +15,7 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/a6f31228-b566-4c9e-842b-3bcbccb96e30" />
 
 ## Evaluaciones experimentales de perforación
-<img width="1022" height="444" alt="image" src="https://github.com/user-attachments/assets/d9250279-b0c4-4121-94d6-07463697132b" />
+<img width="922" height="444" alt="image" src="https://github.com/user-attachments/assets/d9250279-b0c4-4121-94d6-07463697132b" />
 
 ## Variables operacionales
 <img width="827" height="545" alt="image" src="https://github.com/user-attachments/assets/047dc0a6-c31e-41ed-a7cf-9386cc45b250" />
