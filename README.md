@@ -8,6 +8,9 @@ Analizar el comportamiento de la frecuencia de impacto en una perforadora DTH ba
 <img width="600" height="500" alt="20250407_160555" src="https://github.com/user-attachments/assets/91b44e9c-8481-4b1b-ab8d-97f993ba0663" />
 
 ## Sistema Measurement While Drilling
+
+En los sistemas MWD, se registran diversas variables para obtener datos relevantes sobre las condiciones y características de la masa rocosa que se perfora. La perforadora cuenta con un sensor de desplazamiento encargado de medir la profundidad, mientras que también se registra el voltaje y la corriente del motor de inducción trifásico mediante sondas para calcular el flujo, velocidad y torque. 
+
 <img width="1145" height="517" alt="image" src="https://github.com/user-attachments/assets/4f998f21-9997-4f50-8634-fce05433a182" />
 
 ## Modelos de estimación
